@@ -1,0 +1,23 @@
+
+  .sponsor_contact,.sponsor_form_heading,.sponsor_fig,.sponsor_form_main3{
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  .Sponsorr{
+    align-items: center;
+    width: 70%;
+    border-radius: 3%;
+    box-shadow: 5px 10px 8px 1px #bebebe;
+    background-color: rgb(241, 241, 241);
+    padding: 2%;
+  }
+  .abc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .submit_button{
+    left: 35%;
+width:30%;
+  }

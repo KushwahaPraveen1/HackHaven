@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    /* font-family: 'Aleo', serif; */
+
+}
+.login_main{ color: #FFFFFF;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0lqRJ62Jjzxq6W6FoCxwPEug62jGYNcfkhxcu7g9FfWVsk6WUvNmNwbalmx3gm_2nGo&usqp=CAU"); */
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login_div h1{
+    color: black;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+.login_div{
+    /* background-color: rgb(211, 211, 211); */
+    border-radius: 2%;
+    width: 40%;
+    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.login_text_div{
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+     height: 90vh;
+    width:80%;
+    background-color: rgb(243, 242, 242);
+    border-radius: 2%;
+}
+.login_button_div{
+    margin: 50px;
+    width: 200px;
+    height: 10px;
+}
+.login_button{
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    /* padding-top:  200px; */
+    margin-bottom: 10px;
+}
+.login_div span{
+    color: black;
+}
+.login_forgot_div{
+    display: flex;
+width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
